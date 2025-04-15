@@ -1,4 +1,4 @@
-Desenvoledor Front-end com um pé no Back-end e outro no UI/UX.
+desenvolvedor e pesquisador.
 
 
 <a href="https://www.linkedin.com/in/renoalmeida/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
